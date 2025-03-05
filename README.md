@@ -4,7 +4,8 @@
 
 📜 | **Dernière update le :** 05/03/2025
 
-Bienvenue sur la page de licence officielle du bot **Nova™**. Cette licence définit les conditions d'utilisation, les droits et restrictions associés à Nova™.
+Bienvenue sur la page de licence officielle du bot **Nova™**. 
+Cette licence définit les conditions d'utilisation, les droits et restrictions associés à Nova™.
 
 ---
 
