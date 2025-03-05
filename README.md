@@ -22,11 +22,14 @@ Cette licence définit les conditions d'utilisation, les droits et restrictions 
 
 Vous **n'avez pas le droit** de :
 
-- ❌ | Copier ou redistribuer le bot Nova™ sous **quelque forme que ce soit même crypté**.
-- ❌ | Modifier le code source ou tenter de le **décompiler, désassembler ou rétro-ingénierie**.
+- ❌ | Copier ou redistribuer le bot Nova™ **même à un format crypté**.
+- ❌ | Modifier le code source ou tenter de le **désassembler ou recrée**.
 - ❌ | Utiliser Nova™ à des **fins commerciales** sans accord préalable.
-- ❌ | Faire passer Nova™ pour votre propre création.
-- ❌ | Revendre l’accès au bot ou à ses fonctionnalités.
+- ❌ | Faire passer Nova™ pour votre **propre création ou propre licence**.
+- ❌ | Revendre **l’accès au bot ou à ses fonctionnalités et fichiers**.
+- ❌ | Obtenir une **autorisation** puis le **revendre ou le distribuer**.
+- ❌ | Modifier **cette licence** pour qu'elle soit **adpatée à vos goûts**.
+- ❌ | Retirer **les liens directs github dans les différentes fichiers**.
 
 ---
 
@@ -36,6 +39,7 @@ Vous **êtes autorisé** à :
 
 - ✔️ | Suggérer des améliorations et signaler des bugs au propriétaire.
 - ✔️ | Partager le lien de cette licence afin de le faire savoir aux autres.
+- ✔️ | Donner un avis constructif sur cette application ou une commande.
 
 ---
 
@@ -55,6 +59,7 @@ Le non-respect de cette licence peut entraîner :
 
 - 🔴 | Une **suppression immédiate de l’accès** au bot sur vos serveurs.
 - 🔴 | Des **poursuites légales** en cas de violation grave des droits du propriétaire.
+- 🔴 | Un **signalement et potentiel retrait de votre compte** en cas de fraude.
 
 ---
 
