@@ -20,11 +20,11 @@ Bienvenue sur la page de licence officielle du bot **Nova™**. Cette licence d�
 
 Vous **n'avez pas le droit** de :
 
-❌ | Copier ou redistribuer le bot Nova™ sous **quelque forme que ce soit même crypté**.
-❌ | Modifier le code source ou tenter de le **décompiler, désassembler ou rétro-ingénierie**.
-❌ | Utiliser Nova™ à des **fins commerciales** sans accord préalable.
-❌ | Faire passer Nova™ pour votre propre création.
-❌ | Revendre l’accès au bot ou à ses fonctionnalités.
+- ❌ | Copier ou redistribuer le bot Nova™ sous **quelque forme que ce soit même crypté**.
+- ❌ | Modifier le code source ou tenter de le **décompiler, désassembler ou rétro-ingénierie**.
+- ❌ | Utiliser Nova™ à des **fins commerciales** sans accord préalable.
+- ❌ | Faire passer Nova™ pour votre propre création.
+- ❌ | Revendre l’accès au bot ou à ses fonctionnalités.
 
 ---
 
@@ -32,8 +32,8 @@ Vous **n'avez pas le droit** de :
 
 Vous **êtes autorisé** à :
 
-✔️ | Suggérer des améliorations et signaler des bugs au propriétaire.
-✔️ | Partager le lien de cette licence afin de le faire savoir aux autres.
+- ✔️ | Suggérer des améliorations et signaler des bugs au propriétaire.
+- ✔️ | Partager le lien de cette licence afin de le faire savoir aux autres.
 
 ---
 
@@ -41,9 +41,9 @@ Vous **êtes autorisé** à :
 
 En utilisant Nova™, vous acceptez que :
 
-🔹 Vous êtes **l'unique responsable** de l'utilisation du bot sur vos différents serveurs.
-🔹 Le créateur de Nova™ **ne peut être tenu responsable** des actions effectuées via le bot.
-🔹 Vous respecterez les **conditions d'utilisation de Discord** et des plateformes associées.
+- 🔹 Vous êtes **l'unique responsable** de l'utilisation du bot sur vos différents serveurs.
+- 🔹 Le créateur de Nova™ **ne peut être tenu responsable** des actions effectuées via le bot.
+- 🔹 Vous respecterez les **conditions d'utilisation de Discord** et des plateformes associées.
 
 ---
 
@@ -51,8 +51,8 @@ En utilisant Nova™, vous acceptez que :
 
 Le non-respect de cette licence peut entraîner :
 
-🔴 | Une **suppression immédiate de l’accès** au bot sur vos serveurs.
-🔴 | Des **poursuites légales** en cas de violation grave des droits du propriétaire.
+- 🔴 | Une **suppression immédiate de l’accès** au bot sur vos serveurs.
+- 🔴 | Des **poursuites légales** en cas de violation grave des droits du propriétaire.
 
 ---
 
