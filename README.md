@@ -1,6 +1,6 @@
 # 🛡️ Licence de Nova™
 
-![Nova™ Logo](https://raw.githubusercontent.com/TON-UTILISATEUR/TON-DEPOT/main/images/logo.png) 
+![Nova™ Logo](https://raw.githubusercontent.com/TON-UTILISATEUR/TON-DEPOT/main/images/Nova.jpg) 
 
 📜 | **Dernière update le :** 05/03/2025
 
