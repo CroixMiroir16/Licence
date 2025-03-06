@@ -87,8 +87,8 @@
 ## 👽 6. Remerciements externes et autorisations
 
 **• CroixMiroir16 :**
-↪ Propriétaire & Commandes & Configurations & Licence & Développement.
-↪ [Accès complet aux ressources et toutes autorisations accordés.]
+↪ Propriétaire & Licence & Développement.
+↪ [Accès complet aux ressources, toutes autorisations accordés.]
 
 **• Mad-Rage :**
 ↪ Configurations & Commandes & Développement.
