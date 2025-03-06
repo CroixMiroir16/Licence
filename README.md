@@ -17,13 +17,13 @@
 » Quelques **définitions** requises :
 
 - 🔩 | **Licence** : Ensemble des **termes** et **conditions** régissant l'**utilisation**, la **reproduction** et la **distribution**.
-- 🔩 | **Code source** : Format préféré pour des **modifications**, avec le **code informatique** et la **documentation associée**.
-- 🔩 | **Propriété** : Oeuvre appartenant à une **personne spécifique**, protégée par **des droits d'auteur** et sous **licence**.
+- 🔩 | **Source** : Format préféré pour des **modifications**, avec le **code informatique** et la **documentation associée**.
+- 🔩 | **Propriété** : Oeuvre appartenant à une **personne spécifique**, protégée par **droits d'auteur** et sous **licence**.
 - 🔩 | **Licencié** : **Propriétaire des droits d'auteur** ou même entité autorisée à **accorder cette licence**.
 - 🔩 | **Vous** : Personne ou entité **utilisant la licence**, y compris des **entreprises et des groupes**.
 - 🔩 | **Travail** : **Oeuvre** pouvant être mis à disposition et **soumise aux conditions de cette licence**.
 - 🔩 | **Contributions** : **Oeuvres ou modifications** soumises par des **tiers** pour **inclusion dans le travail original**.
-- 🔩 | **Crypté** : Méthode de **sécurisation** qui empêche l'**accès non autorisé aux fichiers ou informations partagées**.
+- 🔩 | **Crypté** : Méthode de **sécurisation** qui bloque **l'accès interdit aux fichiers ou informations partagées**.
 - 🔩 | **Poursuite** : **Action légale** intentée pour **violation des droits de propriété intellectuelle ou fraude**.
 - 🔩 | **Commerciale** : Activité consistant à **revendre des informations ou fichiers soumis à des droits de licence**.
 
@@ -106,7 +106,7 @@
 
 ## 📩 7. Contact et support
 
-» Si vous avez des **questions** concernant cette licence ou souhaitez obtenir une **autorisation spécifique**, veuillez me joindre en privé. ⭐
+» Si vous avez des **questions** ou **demandes** concernant cette licence, veuillez **me joindre en privé.** ⭐
 
 » Veuillez également respecter le **cadre de ma vie privée**, il est possible que je ne réponde pas dans l'immédiat. 💖
 
