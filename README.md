@@ -16,8 +16,8 @@
 
 » Quelques **définitions** requises :
 
-- 🔩 | **Licence** : Ensemble des **termes** et **conditions** régissant l'**utilisation**, la **reproduction** et la **distribution** du travail.
-- 🔩 | **Code source** : Format préféré pour effectuer des **modifications**, comprenant le **code informatique** et la **documentation associée**.
+- 🔩 | **Licence** : Ensemble des **termes** et **conditions** régissant l'**utilisation**, la **reproduction** et la **distribution**.
+- 🔩 | **Code source** : Format préféré pour des **modifications**, comprenant le **code informatique** et la **documentation associée**.
 - 🔩 | **Propriété** : Oeuvre appartenant à une **personne spécifique**, protégée par **des droits d'auteur** et sous cette **licence**.
 - 🔩 | **Licencié** : **Propriétaire des droits d'auteur** ou même entité autorisée à **accorder cette licence**.
 - 🔩 | **Vous** : Personne ou entité **utilisant la licence**, y compris des **entreprises et des groupes**.
