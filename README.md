@@ -54,7 +54,7 @@
 
 ---
 
-## ✅ 3. Utilisation autorisée
+## 🌐 3. Utilisation autorisée
 
 » Vous **êtes autorisé** à :
 
@@ -64,7 +64,7 @@
 
 ---
 
-## ⚠️ 4. Responsabilités des utilisateurs
+## 🧩 4. Responsabilités des utilisateurs
 
 » En utilisant Nova™, vous acceptez que :
 
@@ -84,27 +84,7 @@
 
 ---
 
-## 👽 6. Remerciements externes et autorisations
-
-**• CroixMiroir16 :**
-↪ Propriétaire & Licence & Développement.
-↪ [Dispose de tous les droits.]
-
-**• Mad-Rage :**
-↪ Configurations & Commandes & Développement.
-↪ [Accès à ses ressources sur demande.]
-
-**• xH. :**
-↪ Commandes & Aides & Hébergement.
-↪ [Accès à ses ressources et d'éventuels partages.]
-
-**• Luclan :**
-↪ Commandes & Aides & Hébergement.
-↪ [Accès au code mais ne pas réutiliser sans accords.]
-
----
-
-## 📩 7. Contact et support
+## 📩 6. Contact et support
 
 » Si vous avez des **questions** ou **demandes** concernant cette licence, veuillez **me joindre en privé.** ⭐
 
