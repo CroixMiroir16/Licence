@@ -13,7 +13,7 @@
 » **Quelques définitions** requises :
 
 - 🔩 | **Licence** : Ensemble des **termes** et **conditions** régissant **l'utilisation**, **la reproduction** et **la distribution**.
-- 
+  
 - 🔩 | **Propriété** : Oeuvre appartenant à une **personne spécifique**, protégée par **droits d'auteur** et mis sous **licence**.
 
 - 🔩 | **Contributions** : **Oeuvres ou modifications** soumises par des **tiers** pour **inclusion dans le travail original**.
