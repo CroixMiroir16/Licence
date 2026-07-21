@@ -1,10 +1,10 @@
-# 🛡️ Licence de Nova™ v2 - Update 02/07/2026
+# 🛡️ Licence de Nova™ v2 & Dark Protect™ - Update 21/07/2026
 
 ---
 
-» Bienvenue sur la page de **licence officielle** du bot **Nova™ v2**.
+» Bienvenue sur la page de **licence officielle** des bots **Nova™ v2 & Dark Protect™**.
 
-» Cette **licence** définit les **conditions d'utilisation, les droits et restrictions associés à Nova™ v2**.
+» Cette **licence** définit les **conditions d'utilisation, les droits et restrictions associés à mes applications**.
 
 ---
 
@@ -26,11 +26,11 @@
 
 » **Vous devez connaître** ceci :
 
-- 🪛 | **Nova™ v2** est un bot **propriétaire** et **protégé par les droits d'auteur**, étant donc mis sous **licence**.
+- 🪛 | **Nova™ v2 & Dark Protect™** sont des bots **propriétaires** et **protégés par les droits d'auteur**, étant donc mis sous **licence**.
   
 - 🪛 | Tous **les fichiers, les codes, les images et ressources associées** sont la **propriété exclusive du propriétaire**.
   
-- 🪛 | **Toute copie, modification, redistribution ou revente** de Nova™ v2 sans autorisation est donc **interdite**.
+- 🪛 | **Toute copie, modification, redistribution ou revente** sans mon autorisation est donc **interdite**.
 
 ---
 
@@ -38,11 +38,11 @@
 
 » **Vous n'avez pas le droit** de :
 
-- ❌ | **Copier ou redistribuer des fichiers, des codes ou des images** de **Nova™ v2**.
+- ❌ | **Copier ou redistribuer des fichiers, des codes ou des images** de **mes applications**.
   
-- ❌ | **Utiliser Nova™ v2** à des **fins commerciales**, cela sera toujours interdit.
+- ❌ | **Utiliser mes applications** à des **fins commerciales**, cela sera toujours interdit.
   
-- ❌ | **Revendre des accès au bot ou à ses fonctionnalités et fichiers associés**.
+- ❌ | **Revendre des accès à un des bots ou à ses fonctionnalités et fichiers associés**.
   
 - ❌ | **Modifier cette licence** pour qu'elle soit adpatée à vos goûts et envies.
 
@@ -64,11 +64,11 @@
 
 ## 🧩 4. Responsabilités des utilisateurs
 
-» En utilisant **Nova™ v2**, vous acceptez que :
+» En utilisant **Nova™ v2 ou Dark Protect™**, vous acceptez que :
 
 - 🔹 **Vous êtes l'unique responsable** de l'utilisation du bot sur vos différents serveurs.
   
-- 🔹 **Le créateur de Nova™ v2 ne peut être tenu responsable** des actions effectuées via le bot.
+- 🔹 **Le créateur de ces applications ne peut être tenu responsable** des actions effectuées.
   
 - 🔹 **Vous respecterez les conditions d'utilisation de Discord** et des plateformes associées.
 
@@ -90,7 +90,7 @@
 
 ## 🛡️ 6. Autorisations particulières
   
-- **CarailleNoir** : Aide à la création du bot et des codes associés, peut récupérer codes et fichiers.
+- **CarailleNoir** : Aide à la création de ces bots, peut récupérer codes et fichiers.
 
 ---
 
@@ -100,4 +100,4 @@
 
 » Veuillez également respecter le **cadre de ma vie privée**, il est possible que je ne réponde pas dans l'immédiat. 💖
 
-» Merci d’utiliser **Nova™ v2** de **manière responsable** et dans **le respect des règles cités** ! 🚀
+» Merci d’utiliser **Nova™ v2 & Dark Protect™** de **manière responsable** et dans **le respect des règles cités** ! 🚀
